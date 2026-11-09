@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Access guidance</span><h2>Every request needs a defined product, dataset, lawful purpose and accountable access owner</h2><p>Businesses and users can document machine-readable delivery while protecting trade secrets and fair contractual rights.</p></section></template>
